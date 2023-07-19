@@ -37,7 +37,7 @@ The talk introduces various techniques to improve learning skills, including chu
 
 Oakley concludes by emphasizing the importance of active engagement in the learning process. This entails paying attention, asking questions, and striving to understand the material.
 
-**Question: steps that I can take to improve your learning process**
+**Question 4: steps that I can take to improve your learning process**
 
 Here are steps you can take to improve your learning process:
 
@@ -65,5 +65,3 @@ Here are steps you can take to improve your learning process:
 3. **Find the right resources:** Explore the wide range of available resources tailored to your interests and learning style.
 4. **Practice regularly:** Dedicate regular practice sessions to strengthen your skills, focusing on areas where you need improvement.
 5. **Seek feedback:** Engage with others who can provide valuable feedback, helping you identify areas for growth and refinement.
-
-Please note that the content has been written anew to ensure originality and to avoid plagiarism.
