@@ -13,7 +13,7 @@
 5. Dealing with physical or mental health issues can be a significant source of stress.
 
 # Identifying the Excitement Quadrant
-1. Sensing a surge of energy and enthusiasm for a specific activity or event.
+1. Sensing a surge of energy and enthusiasm for a specific activity or event. 
 2. Anticipating something with eagerness and a positive outlook.
 3. Experiencing deep engagement and absorption in a task or experience.
 4. Noticing larger pupils due to heightened arousal as a physiological response.
